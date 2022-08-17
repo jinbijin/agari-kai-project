@@ -1,0 +1,3 @@
+[submodule "agari-kai-client"]
+	path = agari-kai-client
+	url = git@github.com:jinbijin/agari-kai-client.git
